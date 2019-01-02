@@ -25,5 +25,3 @@ def contains_badwords(text):
                 return True
     return False
 
-
-
